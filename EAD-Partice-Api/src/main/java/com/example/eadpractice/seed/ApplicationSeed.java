@@ -15,7 +15,7 @@ import java.util.Random;
 import java.util.UUID;
 
 @Component
-//@RequiredArgsConstructor
+//@requyy
 public class ApplicationSeed implements CommandLineRunner {
     boolean seed = false;
     final ProductRepository productRepository;
